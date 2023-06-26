@@ -14,7 +14,7 @@ var player_health = 100
 ```
 
 ## 2. Menghindari Variabel Global yang Berlebihan
-Meskipun GDScript mendukung variabel global, sebaiknya hindari penggunaan yang berlebihan. Variabel global yang terlalu banyak dapat menyebabkan kompleksitas dan kesulitan dalam pemeliharaan kode. Sebaiknya gunakan variabel lokal atau variabel yang terbatas pada cakupan yang diperlukan.
+Meskipun GDScript mendukung variabel global dengan menggunakan Autoload, sebaiknya hindari penggunaan yang berlebihan. Variabel global yang terlalu banyak dapat menyebabkan kompleksitas dan kesulitan dalam pemeliharaan kode. Sebaiknya gunakan variabel lokal atau variabel yang terbatas pada cakupan yang diperlukan.
 
 ## 3. Manfaatkan Inheritance (Pewarisan) untuk Membangun Hirarki Kelas
 GDScript mendukung pewarisan, yang memungkinkan Anda untuk membangun hierarki kelas. Dengan memanfaatkan fitur ini, Anda dapat menghindari pengulangan kode dan memudahkan perubahan atau penambahan fitur di kemudian hari. Contohnya:
