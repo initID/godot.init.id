@@ -6,8 +6,6 @@ categories: [Blog]
 tags: []
 mermaid: true
 ---
-# Menjelajahi Potensi Godot Engine untuk Pengembangan Game di Indonesia
-
 Selamat datang di Godot Initiative Indonesia! Pada kesempatan kali ini, kami akan membahas potensi luar biasa dari Godot Engine sebagai platform pengembangan game yang populer dan inovatif. Mari kita jelajahi bersama berbagai fitur dan keunggulan Godot Engine serta bagaimana pengembang game di Indonesia dapat memanfaatkannya.
 
 ## Mengapa Godot Engine?
