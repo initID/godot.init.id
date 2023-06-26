@@ -43,9 +43,7 @@ Dalam contoh ini, Node 1 adalah node utama yang menjadi induk dari Node 2 dan No
 
 ### Pengaturan Animasi
 
-Godot Engine menyediakan alat pengaturan animasi yang powerful. Dengan menggunakan al
-
-at ini, pengembang game dapat membuat animasi kompleks, termasuk perpindahan, perputaran, dan perubahan skala objek. Pengaturan animasi memungkinkan pengembang game untuk membuat game yang hidup dan menarik dengan mudah.
+Godot Engine menyediakan alat pengaturan animasi yang powerful. Dengan menggunakan alat ini, pengembang game dapat membuat animasi kompleks, termasuk perpindahan, perputaran, dan perubahan skala objek. Pengaturan animasi memungkinkan pengembang game untuk membuat game yang hidup dan menarik dengan mudah.
 
 Berikut adalah contoh kode GDScript untuk mengatur animasi pergerakan karakter:
 
