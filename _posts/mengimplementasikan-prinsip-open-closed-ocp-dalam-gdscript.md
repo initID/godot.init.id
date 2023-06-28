@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Mengimplementasikan Prinsip Open-Closed (OCP) dalam GDScript
-date: 2023-06-27 01:26 +0700
+date: 2023-06-28 01:26 +0700
+categories: [Blog]
+tags: []
+mermaid: true
 ---
-Selamat datang di Godot Initiative Indonesia! Pada kesempatan kali ini, kami akan membahas implementasi Prinsip Open-Closed (OCP) dalam bahasa pemrograman GDScript. Prinsip OCP adalah salah satu bagian dari prinsip SOLID yang bertujuan untuk membuat kode yang dapat diperluas tanpa harus mengubah kode yang sudah ada. Mari kita jelajahi bersama bagaimana menerapkan prinsip OCP dalam pengembangan game dengan GDScript.
+Pada kesempatan kali ini, kami akan membahas implementasi Prinsip Open-Closed (OCP) dalam bahasa pemrograman GDScript. Prinsip OCP adalah salah satu bagian dari prinsip SOLID yang bertujuan untuk membuat kode yang dapat diperluas tanpa harus mengubah kode yang sudah ada. Mari kita jelajahi bersama bagaimana menerapkan prinsip OCP dalam pengembangan game dengan GDScript.
 
 ## Apa itu Prinsip Open-Closed (OCP)?
 
@@ -27,6 +30,8 @@ func move():
 func attack():
     # Logika serangan karakter
 ```
+{: file="character.gd" }
+
 ```gd
 # Kelas turunan Player
 class_name Player
@@ -37,6 +42,8 @@ func move():
 func attack():
     # Logika serangan pemain
 ```
+{: file="player.gd" }
+
 ```gd
 # Kelas turunan Enemy
 class_name Enemy
@@ -47,6 +54,7 @@ func move():
 func attack():
     # Logika serangan musuh
 ```
+{: file="enemy.gd" }
 
 Dalam contoh ini, kita memiliki kelas dasar `Character` dengan metode `move` dan `attack`. Kemudian, kita membuat kelas turunan `Player` dan `Enemy` yang memperluas fungsionalitas `Character` dengan mengimplementasikan metode `move` dan `attack` sesuai kebutuhan karakter tersebut.
 
