@@ -15,5 +15,4 @@ Selain itu, artikel tersebut juga menyertakan informasi mengenai bagaimana untuk
 
 Godot adalah mesin pengembangan game open source yang dikembangkan oleh ratusan kontributor dengan dukungan dari komunitas. Proyek ini didukung secara finansial melalui donasi dari masyarakat. Jika pembaca ingin mendukung proyek ini secara finansial, mereka dapat berkontribusi melalui [Patreon atau PayPal](https://godotengine.org/donate/).
 
-Pranala: 
-- [Sumber](https://godotengine.org/article/release-candidate-godot-4-1-rc-2/)
+[Pranala Sumber](https://godotengine.org/article/release-candidate-godot-4-1-rc-2/)
