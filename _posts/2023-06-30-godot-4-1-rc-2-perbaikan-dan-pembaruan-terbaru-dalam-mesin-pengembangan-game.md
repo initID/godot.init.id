@@ -13,7 +13,7 @@ Ada beberapa perubahan utama yang telah dilakukan dalam Godot 4.1, termasuk perb
 
 Selain itu, artikel tersebut juga menyertakan informasi mengenai bagaimana untuk mengunduh Godot 4.1 RC 2 dan daftar masalah yang diketahui pada rilis ini. Pembaca juga dapat memberikan laporan bug jika menemui masalah dalam penggunaan versi ini.
 
-Godot adalah mesin pengembangan game open source yang dikembangkan oleh ratusan kontributor dengan dukungan dari komunitas. Proyek ini didukung secara finansial melalui donasi dari masyarakat. Jika pembaca ingin mendukung proyek ini secara finansial, mereka dapat berkontribusi melalui [Patreon atau PayPal]([Title](https://godotengine.org/donate/)).
+Godot adalah mesin pengembangan game open source yang dikembangkan oleh ratusan kontributor dengan dukungan dari komunitas. Proyek ini didukung secara finansial melalui donasi dari masyarakat. Jika pembaca ingin mendukung proyek ini secara finansial, mereka dapat berkontribusi melalui [Patreon atau PayPal](https://godotengine.org/donate/).
 
 Pranala: 
 - [Sumber](https://godotengine.org/article/release-candidate-godot-4-1-rc-2/)
