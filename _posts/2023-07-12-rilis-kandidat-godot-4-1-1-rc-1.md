@@ -21,7 +21,7 @@ Seperti biasa dengan rilis perawatan pertama (juga dikenal sebagai "rilis patch"
 
 - Untuk pengguna Linux, ada perbaikan potensial untuk pembekuan saat berinteraksi dengan menu di Wayland ([GH-79143](https://github.com/godotengine/godot/pull/79143)). Ini adalah masalah yang sulit diidentifikasi dan di-debug, tetapi penggemar Wayland lokal kami berhasil menemukan penyebab yang mungkin dan memvalidasi bahwa perilaku yang tidak diinginkan telah diatasi.
 
-[Lompat ke bagian **Unduhan**](#downloads), dan cobalah sekarang, atau lanjutkan membaca untuk mempelajari lebih lanjut tentang peningkatan dalam rilis ini. Anda juga dapat [mencoba **editor web**](https://editor.godotengine.org/releases/4.1.1.rc1/) atau **editor Android** untuk rilis ini. Jika Anda tertarik dengan yang terakhir, harap minta bergabung [dengan grup pengujian kami](https://groups.google.com/g/godot-testers) untuk mendapatkan akses ke versi pra-rilis.
+[Lompat ke bagian **Unduhan**](#unduhan), dan cobalah sekarang, atau lanjutkan membaca untuk mempelajari lebih lanjut tentang peningkatan dalam rilis ini. Anda juga dapat [mencoba **editor web**](https://editor.godotengine.org/releases/4.1.1.rc1/) atau **editor Android** untuk rilis ini. Jika Anda tertarik dengan yang terakhir, harap minta bergabung [dengan grup pengujian kami](https://groups.google.com/g/godot-testers) untuk mendapatkan akses ke versi pra-rilis.
 
 -----
 
