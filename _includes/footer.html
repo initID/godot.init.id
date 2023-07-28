@@ -10,7 +10,7 @@
 			<p style="margin-left: auto;">
 				{{- '©' }}
 				{{ 'now' | date: '%Y' }}
-				<a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+				<a href="{{ site.social.links[0] }}" rel="dofollow">{{ site.social.name }}</a>.
 				{% if site.data.locales[include.lang].copyright.brief %}
 				<span data-bs-toggle="tooltip" data-bs-placement="top"
 					title="{{ site.data.locales[include.lang].copyright.verbose }}">
